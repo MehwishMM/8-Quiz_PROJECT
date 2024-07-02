@@ -1,6 +1,6 @@
 {
   "name": "mm-quiz-project",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A quiz project with typescript ,node js,inquirer",
   "main": "index.js",
   "type": "module",
